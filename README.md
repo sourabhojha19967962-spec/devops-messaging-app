@@ -236,9 +236,9 @@ git push → GitHub Actions
 | Container Registry | AWS ECR |
 | Ingress | Nginx Ingress Controller |
 
----
+---  
 
 ## Author
 
 **Sourabh Ojha** — DevOps Engineer  
-[LinkedIn](https://www.linkedin.com/in/sourabh-o-52b496413) · [GitHub](https://github.com/yourusername)
+ · [GitHub](https://github.com/yourusername)
